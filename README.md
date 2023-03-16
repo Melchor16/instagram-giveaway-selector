@@ -14,8 +14,8 @@ This is a script that reads all the comments from an instagram post and then ran
 ### Overview
 
 Commonly when someone make a giveaway on instagram they follow the same rules:
--You got to comment as many times as you want
--You got to mention at least one friend in your comment
+- You got to comment as many times as you want
+- You got to mention at least one friend in your comment
 
 whit this script you can automatically check for all the comments that meet the criteria and randomly select one winner
 
@@ -28,12 +28,12 @@ To use this script you need to install:
 
 ### Instructions
 
--Run the script
--Paste the Shortcode of the post:
+- Run the script
+- Paste the Shortcode of the post:
 
-![](.shortcode.png)
+![](./shortcode.png)
 
--Indicate the number of tags needed to participate
+- Indicate the number of tags needed to participate
 
 
 ### Built with
