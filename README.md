@@ -43,5 +43,5 @@ To use this script you need to install:
 
 ### Author
 
-- Website - [Erick Melchor](https://github.com/Melchor16/ResultSummary)
+- Website - [Erick Melchor](https://github.com/Melchor16)
 
